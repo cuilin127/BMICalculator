@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">fr_BMIApplication</string>
+    <string name="height_feet">fr_HEIGHTS IN FEET</string>
+    <string name="height_inch">fr_HEIGHTS IN INCHES</string>
+    <string name="result">fr_Result:</string>
+    <string name="weights_in_pounds">fr_WEIGHTS IN POUNDS</string>
+    <string name="calculate_bmi">fr_Calculate BMI</string>
+</resources>

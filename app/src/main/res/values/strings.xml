@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMIApplication</string>
+    <string name="height_feet">HEIGHTS IN FEET</string>
+    <string name="height_inch">HEIGHTS IN INCHES</string>
+    <string name="result">Result:</string>
+    <string name="weights_in_pounds">WEIGHTS IN POUNDS</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+</resources>
